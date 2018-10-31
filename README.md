@@ -6,7 +6,7 @@ NXftp is an X/Motif wrapper around the ftp command line that I wrote that starte
 NOTE:  Even if you don't want to read anything, READ the INSTRUCTIONS
        section at the end because it will tell you how to set up the 
        program to use the name of your network and the help and site
-       list files.
+       list files.asdfasdfasdf
 
 <pre>
 **********************************************************************
